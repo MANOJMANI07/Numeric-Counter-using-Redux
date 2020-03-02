@@ -1,0 +1,33 @@
+/*reset css*/
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: #121212;
+    color: #fdfdfd;
+    text-align: center;
+    color: #e0f7fa;
+}
+
+header {
+    font-size: 24px;
+    color: #e0f7fa;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 32px;
+}
+
+.counter-content {
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 32px;
+}
+
+button {
+    cursor: pointer;
+    padding: 6px 12px;
+    font-size: 18px;
+    background-color: #00acc1;
+    border: none;
+    border-radius: 4px;
+    color: #e0f7fa;
+    overflow: hidden;
+}
